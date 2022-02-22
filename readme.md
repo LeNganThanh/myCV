@@ -1,1 +1,1 @@
-[rainbow picture](/rainbow.jpeg)
+![rainbow picture](/rainbow.jpeg)
